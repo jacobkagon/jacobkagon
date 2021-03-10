@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkagon&show_icons=true&theme=radical)
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkagon&show_icons=true&theme=dark)
 
 
 <!--
