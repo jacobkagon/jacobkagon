@@ -1,7 +1,9 @@
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkagon&show_icons=true&theme=dark)](https://github.com/jacobkagon/github-readme-stats)
+
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkagon&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkagon&show_icons=true&theme=dark)](https://github.com/jacobkagon/github-readme-stats)
+
 
 
 <!--
