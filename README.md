@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jacobkagon/github-readme-stats)
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkagon)](https://github.com/jacobkagon/github-readme-stats)
 
 <!--
 **jacobkagon/jacobkagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
