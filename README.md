@@ -5,7 +5,9 @@
 
 ### Hi there I'm Jacob 👋
 
-I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript, and React. I am endlessly curious and love to learn new things. 
+I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript, and React. I am endlessly curious and love to learn new technologies. 
+
+🌱 I’m currently learning about data structures and algoritihms.
 
 <!--
 **jacobkagon/jacobkagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,6 @@ I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
