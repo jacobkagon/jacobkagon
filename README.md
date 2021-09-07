@@ -5,7 +5,7 @@
 
 ### Hi there I'm Jacob 👋
 
-I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript, and React. I am endlessly curious and love to learn new technologies. 
+I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript, and React.
 
  🔭 I’m currently working at IdeaCrew as a junior Ruby on Rails developer
 
