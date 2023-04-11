@@ -5,7 +5,7 @@
 
 I am a full-stack software engineer with experience in Ruby-on-Rails, Javascript, and React.
 
- 🔭 I’m currently working at IdeaCrew as a Ruby on Rails developer
+ 🔭 I’m currently a Tech Lead at IdeaCrew
 
 <!--
 **jacobkagon/jacobkagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
